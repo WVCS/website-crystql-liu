@@ -1,3 +1,32 @@
-body {
+body{
+  background-color:pink;
+}
+h1{
+    font-size:300%;
+    letter-spacing:2px;
+    font-family: "Calibri";
+    color: purple;
+  text-decoration: underline;
+  text-decoration-color: black;
+}
+    img{
+      width:300px;
+      border-style:ridge;
+      border-color:black;
+    }
+p1{
+  font-size:150%;
+  font-family:"Verdana";
+}
+ h2{
+    font-size:200%;
+    letter-spacing:2px;
+    font-family: "Calibri";
+    color: purple;
 
+  }
+a{
+  color: black;
+  font-size:100%;
+    font-family:"Verdana";
 }
